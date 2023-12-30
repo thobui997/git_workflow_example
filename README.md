@@ -9,3 +9,5 @@
 - [ ] Bổ sung api export cho màn hình biên tập, đặt lịch.
 - [ ] Tạo bản đồ custom dựa trên hình ảnh được cung cấp trên màn hình khu vực.
 - [ ] Tạo 1 background job tự động xóa file vào cuối tháng.
+
+add document
